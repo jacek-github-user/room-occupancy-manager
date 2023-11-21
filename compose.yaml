@@ -1,0 +1,5 @@
+services:
+  demo:
+    image: room/occupancy/manager
+    ports:
+    - "8080:8080"
